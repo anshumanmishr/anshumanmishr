@@ -1,6 +1,20 @@
 - 👋 Hi, I’m @anshumanmishr working at Wipro.
-- 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning MERN stack
+- Experienced and detail-oriented DevOps Engineer with 2.5 years of hands-on expertise in automating deployment processes, implementing CI/CD pipelines, and optimizing cloud solutions. Proficient in DevOps practices, Cloud Computing, IaaS, PaaS, SaaS, and Infrastructure automation. Skilled in creating Docker images, managing AWS and Azure platforms, and utilizing configuration management tools like Ansible and Terraform. Experienced in various roles such as DevOps, Cloud Engineer, and Build/Release Engineer, contributing to software integration, configuration, packaging, and release management. Adept at collaborating with cross-functional teams, troubleshooting issues, and ensuring optimal application performance.
+
+**Technical Skills:**
+- Programming Languages: Go, Python, Bash
+- CI/CD Tools: Jenkins
+- Containerization: Docker
+- Orchestration: Kubernetes
+- Infrastructure as Code: Terraform
+- Configuration Management: Ansible
+- Cloud Platforms: AWS, Azure
+- Monitoring: Prometheus, Grafana
+- Version Control: Git
+- Collaboration Tools: Jira
+- Operating Systems: Linux (Ubuntu, CentOS), UNIX, Windows
+- Virtualization Platforms: Virtual Box, Vagrant
+
 
 
 <!---
